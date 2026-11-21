@@ -1,10 +1,10 @@
 [package]
-name = "arch-c"
+name = "sigmaos-c"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-c component - SigmaOS component"
+description = "SigmaOS SigmaOS-c component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-c"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-c"
 
 [dependencies]
 thiserror = "2"
